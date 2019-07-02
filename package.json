@@ -1,0 +1,27 @@
+{
+  "name": "fotovelo_admin_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "blob": "0.0.5",
+    "blob-to-buffer": "^1.2.8",
+    "buffer": "^5.2.1",
+    "filereader": "^0.10.3",
+    "fs": "0.0.1-security",
+    "jimp": "^0.6.1",
+    "mongodb": "^3.2.3",
+    "node-fetch": "^2.3.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "qr-image": "^3.2.0",
+    "qrcode-reader": "^1.0.4",
+    "store": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
