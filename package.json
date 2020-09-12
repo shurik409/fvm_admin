@@ -12,7 +12,7 @@
     "fs": "0.0.1-security",
     "jimp": "^0.6.1",
     "mongodb": "^3.2.3",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "node-telegram-bot-api": "^0.30.0",
     "qr-image": "^3.2.0",
     "qrcode-reader": "^1.0.4",
